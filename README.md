@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ayush (@ayush-klub)
+- 👋 Hi, I’m Ayush (@klub-ayush)
 - 👀 I’m interested in Rust and Blockchain
 - 🌱 I’m currently learning about NFT, Metaverse.
 - 📫 You can reach me at: ayush@klubworks.com
